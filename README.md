@@ -2,9 +2,6 @@
 
 A simple **React Counter App** that allows users to **increment** and **decrement** the count value, with limits set between **0 and 20**.
 
-## 🖥️ Demo
-> Add a screenshot here (if available)
-
 ## 🎯 Features
 ✅ Increase count (Max limit: 20)  
 ✅ Decrease count (Min limit: 0)  
